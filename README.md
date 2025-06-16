@@ -1,1 +1,9 @@
-# Aprendiendo-JS1
+# Knowing JavaScript
+This week I will work on the proposed topics:
+* Variables, types and operators
+    * let, const, var, primitive types 
+    * Operators: Arithmetic, comparison, logics
+
+* Conditionals and cycles
+    * if, else, switch 
+    * Loops: for, while, do...while, for...of
