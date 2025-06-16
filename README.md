@@ -7,3 +7,7 @@ This week I will work on the proposed topics:
 * Conditionals and cycles
     * if, else, switch 
     * Loops: for, while, do...while, for...of
+
+* Functions and errors
+    * Statement, expression and arrows
+    * try/catch y throw
