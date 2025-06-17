@@ -16,6 +16,7 @@ This week I will work on the proposed topics:
 
 # Reflection section 
 * What aspects of the process did I find most flexible or fluid for me?
+    - Los procesos mas accesibles que he encontrado para mi, es que me he podido adaptar rápido a el proceso que lleva JavaScript y Node
 * Wich elements represented a greater level of challenge and why?
 * What strategies will I implement to overcome obstacles that arise during the process?
 * What concepts or procedures do I not yet fully understand and in what specific aspects would I need additional guidance?
